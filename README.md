@@ -1,3 +1,3 @@
 # bainbridge-hoopfest
-Bainbridge Hoopfest test website
-Just playing around to get used to git and make a test website 
+Website originally hosted through GitHub organization repo, forked to display here. 
+For a potential ASB fundraiser as a one stop shop for all information regarding the event. 
